@@ -1,8 +1,8 @@
 {
   "domain": "weldre4",
   "name": "Weld RE-4 Integration",
-  "version": "1.0",
+  "version": "1.0.0",
   "requirements": [],
-  "codeowners": [],
+  "codeowners": ["@huntsman95"],
   "config_flow": true
 }
