@@ -8,4 +8,6 @@
   "render_readme": true,
   "domain": "weldre4",
   "documentation": "https://github.com/huntsman95/WeldRE4-Campus-Integration",
+  "homeassistant": "2025.2.4",
+  "hacs": "2.0.1"
 }
