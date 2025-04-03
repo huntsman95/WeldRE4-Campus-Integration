@@ -1,4 +1,11 @@
 {
   "name": "Weld RE-4 InfiniteCampus Integration",
-  "render_readme": true
+  "version": "1.0.0",
+  "codeowners": [
+    "huntsman95"
+  ],
+  "issue_tracker": "https://github.com/huntsman95/WeldRE4-Campus-Integration/issues",
+  "render_readme": true,
+  "domain": "weldre4",
+  "documentation": "https://github.com/huntsman95/WeldRE4-Campus-Integration",
 }
